@@ -32,6 +32,8 @@ The stakeholders are giving the data analysts these core questions such as :
 
     - Allocate 55% of marketing budget to NA, 30% to EU, and minimal resources to JP.
 
+![](images/MindGamesSS.png)
+
 # Recommendations
 
 1. Risk on Shooters for PS4
