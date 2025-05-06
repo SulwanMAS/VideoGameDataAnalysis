@@ -13,4 +13,32 @@ The stakeholders are giving the data analysts these core questions such as :
 2. Platform Priotization : What Platform is the best way to get as many customers possible?
 3. Regional Localization : How should we tailor our marketing strategy to each region?
 
-# Executive Summary
+# Key Findings
+1. Genre Efficiency :
+   - Shooter genre has the highest revenue per game with (0.81M/game) followed by Platform genre with (0.69M/game).
+   - Strategy and Adventure genre has one of the lowest market efficiency which indicates that it is severely oversaturated.
+2. Platform Performance :
+   - PS4 dominates the Shooter Genre with an average of (2.2M average sales), while the second platform that has a high average
+     sales is Xbox One.
+   - From across the platform, the Gameboy has the highest average sales for all Genre for its time.
+3. Regional Demand (Shooters)
+    - North America (54.1%) is the primary market, followed by:
+
+        Europe (32.3%)
+
+        Other Regions (11.04%)
+
+        Japan (2.54%).
+
+    - Allocate 55% of marketing budget to NA, 30% to EU, and minimal resources to JP.
+
+# Recommendations
+
+1. Risk on Shooters for PS4
+   -  It has the higest revenue per Game in NA
+   -  Have to monitor rising competition from other companies in the Shooter Genre
+2. Pay attention to Platform Games on other platforms
+   - Lower market efficiency than Shooter but there is potential to generate revenue from it
+3. Regional Targeting
+   - Mainly focus marketing to NA and EU market more than JP
+   - Provide more resources to other regions but less towards JP
