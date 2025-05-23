@@ -1,5 +1,8 @@
 The dataset that I took is from kaggle https://www.kaggle.com/datasets/gregorut/videogamesales which is the basic premise of the project that I have made.
 
+
+# Video Games Sales Analysis
+
 # Context of Project
 
 MindGames which is a mid-sized game studio would like to create a game and profit over it and require some datas to be analysed to
