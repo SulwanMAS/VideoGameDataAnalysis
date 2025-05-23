@@ -1,4 +1,4 @@
-The dataset that I took is from kaggle https://www.kaggle.com/datasets/gregorut/videogamesales which is the basic premise of the project that I have made.
+The dataset that I took was from kaggle https://www.kaggle.com/datasets/gregorut/videogamesales which is the basic premise of the project that I have made.
 
 
 # Video Games Sales Analysis
@@ -12,9 +12,9 @@ They have allocated $15M budget to use and would like to properly utilize the mo
 as the data analysts that they hire could give.
 
 The stakeholders are giving the data analysts these core questions such as :
-1. Genre Selection : Which genre has the highest market efficiency?
-2. Platform Priotization : What Platform is the best way to get as many customers possible?
-3. Regional Localization : How should we tailor our marketing strategy to each region?
+1. Genre Efficiency : Which genre has the highest market efficiency?
+2. Platform Performance : What Platform is the best way to get as many customers possible?
+3. Regional Demand : How should we tailor our marketing strategy to each region?
 
 # Key Findings
 1. Genre Efficiency :
